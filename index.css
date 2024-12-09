@@ -1,0 +1,55 @@
+header {
+    background-color: lightgreen;
+    line-height: 80px;
+    text-align: center;
+    font-size: 26px;
+
+}
+
+a:hover {
+    font-size: 35px;
+    transition: .3s;
+    cursor: pointer;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+a:active {
+    color: blue;
+    font-size: 40px;
+    margin: 30px;
+    border: 30px;
+    padding: 12px;
+    background-color: lightblue;
+    border-radius: 15px;
+    transition: .3s ease-in-out;
+}
+
+
+h1  {
+    text-align: center;
+    background-color: lightblue;
+    font-family: helvetica;
+    font-weight: unset
+}
+
+.class-length {
+    text-align: center;
+    background-color: lightblue;
+    font-family: helvetica;
+}
+
+.course {
+    background-color: lightblue;
+}
+
+.part1 {
+    background-color: lightblue
+}
+
+ol {
+    line-height: 43px;
+    font-size: 18px;
+    text-align: center;
+    font-family: helvetica;
+}
